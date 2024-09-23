@@ -1,4 +1,9 @@
 {
+  
+"engines": {
+"node": "20.15.1"
+},
+ 
   "name": "wanderlust-project",
   "version": "1.0.0",
   "main": "app.js",
